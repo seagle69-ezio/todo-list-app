@@ -25,16 +25,16 @@ Kullanıcılar görev ekleyebilir, tamamlandı olarak işaretleyebilir, güncell
 ## ⚙️ Kurulum ve Çalıştırma
 
 -1. Repoyu indirin:
-   git clone https://github.com/seagle69-ezio/todo-list-app.git
+   **git clone https://github.com/seagle69-ezio/todo-list-app.git**
    
 -2.Klasöre gir:
-  cd todo-list-ap
+   **cd todo-list-app**
   
 -3.Gerekli bağımlılıkları yükle:
-  npm install
+  **npm install**
   
 -4.Uygulamayı başlat:
-  npm run dev
+  **npm run dev**
   
 -5.Tarayıcıda aç:
 
@@ -42,9 +42,14 @@ Kullanıcılar görev ekleyebilir, tamamlandı olarak işaretleyebilir, güncell
 
 🔍 Açıklamalar Özeti
 Kod	Ne Yapar
--useState([])	= Görevleri bellekte tutar (state)
--addTask() =	Yeni görev ekler
--deleteTask()	= İlgili görevi siler
--toggleComplete()	Görevi = tamamlandı olarak işaretler veya geri alır
--<input onKeyDown={...} /> =	Enter’a basıldığında görev ekler
--tasks.map(...) =	Tüm görevleri ekrana liste olarak basar
+-**useState([])**	= *Görevleri bellekte tutar (state)*
+
+-**addTask()** =	*Yeni görev ekler*
+
+-**deleteTask()**	= *İlgili görevi siler*
+
+-**toggleComplete()** = *tamamlandı olarak işaretler veya geri alır*
+
+-**<input onKeyDown={...} />** =	*Enter’a basıldığında görev ekler*
+
+-**tasks.map(...)** =	*Tüm görevleri ekrana liste olarak basar*
