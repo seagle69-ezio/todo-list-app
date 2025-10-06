@@ -24,15 +24,15 @@ Kullanıcılar görev ekleyebilir, tamamlandı olarak işaretleyebilir, güncell
 
 ## ⚙️ Kurulum ve Çalıştırma
 
-**1. Repoyu indirin:
+-1. Repoyu indirin:
    git clone https://github.com/seagle69-ezio/todo-list-app.git
-**2.Klasöre gir**:
+-2.Klasöre gir:
   cd todo-list-ap
-**3.Gerekli bağımlılıkları yükle:
+-3.Gerekli bağımlılıkları yükle:
   npm install
-**4.Uygulamayı başlat**:
+-4.Uygulamayı başlat:
   npm run dev
-**5.Tarayıcıda aç**:
+-5.Tarayıcıda aç:
 
 ---
 
